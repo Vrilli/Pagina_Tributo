@@ -1,0 +1,48 @@
+html {
+    font-size: 15px;
+}
+
+body {
+    font-family: monospace;
+    font-size: 1.1rem;
+    line-height: 1.2;
+    background: rgb(243, 205, 205);
+    color: black;
+    text-align: center;
+    margin: 0;
+  }
+
+  h1 {
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 3rem;
+     margin-bottom: 0;
+     color: black;
+     text-align: center;
+  }
+
+  p {
+     font-family: cursive;
+     text-align: center;
+     color: dimgrey;
+  }
+
+  .Img {
+      width: 30%;
+      height: 30%;
+      border-radius: 50%;
+  }
+   
+  #Info {
+    font-family: cursive;
+    font-size: 1.2rem;
+  }
+
+  #Tribute_info {
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+
+  }
+
+  ul {
+      list-style: none;
+  }

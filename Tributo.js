@@ -1,0 +1,2 @@
+
+const ProyectName = "atlantico.Net";
